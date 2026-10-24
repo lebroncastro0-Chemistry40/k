@@ -1,0 +1,2 @@
+# The-Lacunae-of-Time-Through-the-Pages-of-Our-Past
+This game is an educational digital experience that explores Philippine history through interactive gameplay and storytelling. It covers the Spanish and American colonial periods, with the Japanese occupation included as an additional historical era, helping players discover the events and struggles that shaped Filipino identity for young learners.
